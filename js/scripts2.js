@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     title: "Hand-coded HTML page",
     subtitle: "Tribute page",
-    category: ["HTML", "CSS", "Flexbox", "Javascript"],
+    category: ["HTML", "CSS", "Flexbox"],
     img: "https://medeavarga.com/wp-content/themes/Medi/images/HieronymusBosch.jpg",
     tasks: "Build a Tribute Page as part of the Responsive Web Design curriculum by FreeCodeCamp. Deploy to Github.",
     list: ['web page design', 'practised flexbox', 'practised coding from scratch', 'deployed to Github'],
